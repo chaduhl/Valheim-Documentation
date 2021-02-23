@@ -1,0 +1,8 @@
+site_name: Valheim Documentation
+
+nav:
+    - Getting Started:
+        - 'Home': 'index.md'
+        - 'setting-up-a-server.md'
+
+theme: readthedocs
